@@ -3,7 +3,9 @@
 - 😄 Pronouns: she/her
 - 🔭 I’m currently working on [ceti.institute](https://ceti.institute)
 - <a href="http://github.com/alannarisse">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
-- ![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+- <a href="https://reactjs.org/docs/getting-started.html">![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)</a>
+- ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+- ![vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 
 <!--
 **alannarisse/alannarisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
