@@ -5,7 +5,7 @@
 - 🎨 my art can be found here: [alannarisse.com](https://alannarisse.com)
 - ⚡ Fun fact: My other 🚗 is a pair of ⛸s
 
-
+<a href="https://www.youtube.com/channel/UCQIuewShH3lMGPsSp-YuScQ">![youtube](https://img.shields.io/badge/YouTube-codelovecode%20Channel-red)</a>
 <a href="http://github.com/alannarisse">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 <a href="http://instagram.com/alannarisse">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="http://facebook.com/alannarisseart">![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)</a>
