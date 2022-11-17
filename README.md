@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 Pronouns: she/her
-- 🔭 I’m currently working on [ceti.institute](https://ceti.institute)
+- 🔭 I’m currently teaching at [Portland State University : Graphic Design](https://psu.gd)
 - 🎨 my art can be found here: [alannarisse.com](https://alannarisse.com)
 - ⚡ Fun fact: My other 🚗 is a pair of ⛸s
 
