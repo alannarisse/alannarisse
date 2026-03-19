@@ -1,6 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+### Like cute aminals? Like your friends and family?
+Send an Animal Boop to someone you love, for free, no strings. no spam. [Send-A-Boop](https://sendaboop.app)
 
 - 😄 Pronouns: she/her
+- I'm a QA Engineer at Back Office by Buyers Edge
 - 🔭 I’m currently teaching at [Portland State University : Graphic Design](https://psu.gd)
 - 🎨 my art can be found here: [alannarisse.com](https://alannarisse.com)
 - ⚡ Fun fact: My other 🚗 is a pair of ⛸s
