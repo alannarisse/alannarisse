@@ -1,14 +1,26 @@
-## Hi there 👋
-
-### Like cute aminals? Like your friends and family?
-Send an Animal Boop to someone you love, for free, no strings. no spam. [Send-A-Boop](https://sendaboop.app)
+### Hi there 👋
 
 - 😄 Pronouns: she/her
-- I'm a QA Engineer at Back Office by Buyers Edge
-- 🔭 I’m currently teaching at [Portland State University : Graphic Design](https://psu.gd)
+- 🔭 I teach at [Portland State University: Graphic Design](https://psu.gd)
 - 🎨 my art can be found here: [alannarisse.com](https://alannarisse.com)
 - ⚡ Fun fact: My other 🚗 is a pair of ⛸s
 
+### Fun Projects
+<ul>
+<li><a href="https://sendaboop.app" target="_blank">Send A Boop</a></li>
+<li><a href="https://alannarisse.github.io/magic-eight-ball" target="_blank">Magic Gen-X Eightball</a></li>
+      <li><a href="https://www.diy-qr.com/" target="_blank">DIY QR Code Generator</a></li>
+      <li><a href="https://alannarisse.github.io/quizzes/wine-and-food-pairing/" target="_blank">Wine and Food Pairing
+          App</a></li>
+      <li><a href="https://alannarisse.github.io/quizzes/dmv-practice/" target="_blank">Oregon Learner's Permit Quiz</a>
+      </li>
+      <li><a href="https://silly-raindrop-967589.netlify.app/" target="_blank">Scrumptious! Recipe Finder</a></li>
+      <li><a href="https://alannarisse.github.io/js-games" target="_blank">Javascript Games</a></li>
+      <li><a href="https://alannarisse.github.io/quizzes/shelf-game/" target="_blank">Food Shelf Game</a></li>
+      <li><a href="https://alannarisse.github.io/pomodoro-timer/" target="_blank">Pomodoro Timer</a></li>
+      </ul>
+
+      
 <a href="https://www.youtube.com/channel/UCQIuewShH3lMGPsSp-YuScQ">![youtube](https://img.shields.io/badge/YouTube-codelovecode%20Channel-red)</a>
 <a href="http://github.com/alannarisse">![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 <a href="http://instagram.com/alannarisse">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)</a>
