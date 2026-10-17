@@ -15,7 +15,7 @@
           App</a></li>
       <li><a href="https://alannarisse.github.io/quizzes/dmv-practice/" target="_blank">Oregon Learner's Permit Quiz</a>
       </li>
-      <li><a href="https://silly-raindrop-967589.netlify.app/" target="_blank">Scrumptious! Recipe Finder</a></li>
+      <li><a href="https://scrumptiousmeals.netlify.app/" target="_blank">Scrumptious! Recipe Finder</a></li>
       <li><a href="https://alannarisse.github.io/js-games" target="_blank">Javascript Games</a></li>
       <li><a href="https://alannarisse.github.io/quizzes/shelf-game/" target="_blank">Food Shelf Game</a></li>
       <li><a href="https://alannarisse.github.io/pomodoro-timer/" target="_blank">Pomodoro Timer</a></li>
